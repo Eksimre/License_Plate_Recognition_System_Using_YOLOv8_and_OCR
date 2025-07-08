@@ -27,3 +27,11 @@ Bu proje, Python, YOLOv8 ve Tesseract OCR kullanarak gerçek zamanlı araç plak
 - Plaka tespiti, interneten bulduğum önceden eğitimiş bir model ile yapılıyor (license_plate_detector.pt).
 - Gerekli kütüphaneler kurulduktan sonra "create_database.py" çalıştırılarak veri tabanı oluşturulur.
 - Pc'ye bağlı bir webcam var ise "main.py" dosyası çalıştırılır ve araç plaksı tespit edilmeye başlar.
+
+---
+- Örnek giris data
+![Multiple_choice_picture](https://r.resimlink.com/7mw16zn.png)
+
+---
+- Örnek çıkış data
+![Multiple_choice_picture](https://r.resimlink.com/sRYtPga3zGv.png)
