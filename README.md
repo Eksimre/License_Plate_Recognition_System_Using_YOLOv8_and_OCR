@@ -22,6 +22,7 @@ Bu proje, Python, YOLOv8 ve Tesseract OCR kullanarak gerçek zamanlı araç plak
 ✅ **SQLite Veri Tabanı**  
 - Anlık giriş kayıtları `Arac_girisi_cikis` tablosunda tutulur.  
 - Çıkış yapıldığında kayıt `Arsiv` tablosuna taşınır.
+---
 
 - Plaka tespiti, interneten bulduğum önceden eğitimiş bir model ile yapılıyor (license_plate_detector.pt).
 - Gerekli kütüphaneler kurulduktan sonra "create_database.py" çalıştırılarak veri tabanı oluşturulur.
